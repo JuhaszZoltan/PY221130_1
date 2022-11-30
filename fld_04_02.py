@@ -1,0 +1,1 @@
+for b in "Juhász Zoltán": print(b)
